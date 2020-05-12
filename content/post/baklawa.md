@@ -1,10 +1,10 @@
 ---
 title: "Baklawa Recipe"
+tags: ["recipes"] 
 date: 2020-05-11T13:11:43-07:00
 draft: false
 ---
 
-# Baklawa
 <center><a href="https://i.imgur.com/3dLiNGe.jpg"><img src="https://i.imgur.com/3dLiNGe.jpg" border="0"></a></center>
 
 ## About

@@ -14,11 +14,14 @@ pygmentscodefences  = true
 
 [[menu.main]]
     name = "About"
-    url  = "about/"
+    url  = "https://ayoubimaya.github.io/post/about"
 [[menu.main]]
     name = "Projects"
     url  = "https://github.com/ayoubimaya"
 [[menu.main]]
     name = "LinkedIn"
     url  = "https://www.linkedin.com/in/mayaayoubi/"
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"
 
