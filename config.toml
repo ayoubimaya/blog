@@ -1,3 +1,24 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://ayoubimaya.github.io/"
+title = "Maya's Notes"
+author = "David Hamp-Gonsalves"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Maya's Notes"
+  disableWebFonts = false
+
+[[menu.main]]
+    name = "About"
+    url  = "about/"
+[[menu.main]]
+    name = "Projects"
+    url  = "https://github.com/ayoubimaya"
+[[menu.main]]
+    name = "LinkedIn"
+    url  = "https://www.linkedin.com/in/mayaayoubi/"
+
