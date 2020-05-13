@@ -55,7 +55,7 @@ Here's my Lebanese style baklawa where a rose and orange blossom water based syr
 
 **3.** Unroll your defrosted filo sheets on a smooth surface.
 
-**4.** Brush the bottom and sides of your rimmed sheet pan with melted ghee.
+**4.** Brush the bottom and sides of your rimmed sheet pan (I used an 8" pan) with melted ghee.
 
 **5.** Peel off a sheet of filo and lay it on the bottom of your buttered pan. If tearing occurs, just put it back together and don't fret!
 
