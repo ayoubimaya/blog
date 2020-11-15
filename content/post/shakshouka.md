@@ -48,4 +48,4 @@ This tomato based stew is filled with bold flavors and spices great anytime of t
 **5.** Enjoy with hot pita pockets!
 
 
-<center><a href="https://i.imgur.com/as3nl0m.jpg"><img src="https://i.imgur.com/as3nl0m.jpg" border="0"></a></center>
+<center><a href="https://i.imgur.com/wl8gEgV.jpg"><img src="https://i.imgur.com/wl8gEgV.jpg" border="0"></a></center>
