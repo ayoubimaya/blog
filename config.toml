@@ -5,8 +5,8 @@ canonifyurls = true
 languagecode = "en"
 theme = "black-and-light"
 
-pygmentsstyle       = "bw"
-pygmentscodefences  = true
+pygmentsstyle = "bw"
+pygmentscodefences = true
 
 [params]
   sitename = "Maya's Notes"

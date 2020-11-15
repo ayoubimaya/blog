@@ -44,7 +44,7 @@ Here's my Lebanese style baklawa where a rose and orange blossom water based syr
 **4.** Transfer to jar and chill in fridge.
 
 ### Making Filling
-**1.** Put your nuts, sugar in the bowl of your food processor and pulse about 5 times. You want to avoid having powdery nuts. Move to mixing bowl.
+**1.** Put your nuts, sugar in the bowl of your food processor and pulse about 5 times. You want to avoid having powdery nuts (unless that's what you want). Move to mixing bowl.
 
 **2.** Combine chopped nuts with cinnamon, rosewater, and egg white. Egg white helps keep the filling stick together! Set aside.
 
@@ -71,7 +71,7 @@ Here's my Lebanese style baklawa where a rose and orange blossom water based syr
 
 **11.** Using the tip of a very sharp knife, cut the baklawa into diamonds or triangles.
 
-**12.** Bake until light brown (45-55 minutes depending on your oven).
+**12.** Bake until golden (45-55 minutes depending on your oven).
 
 **13.** Remove the pan from the oven and immediately pour the chilled syrup evenly over the baklawa. Garnish with finely chopped pistachios. Let the baklawa cool.
 
