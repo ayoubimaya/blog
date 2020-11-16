@@ -37,7 +37,7 @@ This tomato based stew is filled with bold flavors and spices great anytime of t
 
 ## Instructions
 
-**1.** Heat oil in 12-inch skillet over medium-high heat. Once simmering, add onion and bell pepper. Cook and stir until softened and slightly brown. Add garlic, tomato paste, cumin, turmeric, salt, pepper, cayenne, paprika, and red pepper flakes.Cook, stirring frequently, until fragrant.
+**1.** Heat oil in 12-inch skillet over medium-high heat. Once simmering, add onion and bell pepper. Cook and stir until softened and slightly brown. Add garlic, tomato paste, cumin, turmeric, salt, pepper, cayenne, paprika, and red pepper flakes. Cook, stirring frequently, until fragrant.
 
 **2.** Stir in fire roasted red peppers, tomatoes, and their juice, water, and bay leaves. Stir, and let it simmer. Reduce heat to medium-low and cook, stirring occassionally, allowing for the flavors to blend.
 
@@ -45,7 +45,6 @@ This tomato based stew is filled with bold flavors and spices great anytime of t
 
 **4.** Turn off heat, use the back of a spoon to make 2 shallow indentations in surface of sauce. Crack 2 eggs directly into each indentation. Sprinkle a little salt and pepper over the egg yolk. Cover and cook over medium-low heat until egg whites are opaque and yolks are still runny. Sprinkle with feta and remaining parsley and serve with warm pita!
 
-**5.** Enjoy with hot pita pockets!
 
 
 <center><a href="https://i.imgur.com/wl8gEgV.jpg"><img src="https://i.imgur.com/wl8gEgV.jpg" border="0"></a></center>

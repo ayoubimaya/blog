@@ -44,7 +44,7 @@ Here's my Lebanese style baklawa where a rose and orange blossom water based syr
 **4.** Transfer to jar and chill in fridge.
 
 ### Making Filling
-**1.** Put your nuts, sugar in the bowl of your food processor and pulse about 5 times. You want to avoid having powdery nuts (unless that's what you want). Move to mixing bowl.
+**1.** Put your nuts and sugar in the bowl of your food processor and pulse about 5 times. You want to avoid having powdery nuts (unless that's what you want). Move to mixing bowl.
 
 **2.** Combine chopped nuts with cinnamon, rosewater, and egg white. Egg white helps keep the filling stick together! Set aside.
 
