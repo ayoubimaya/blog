@@ -3,7 +3,7 @@ title = "Maya's Notes"
 author = "David Hamp-Gonsalves"
 canonifyurls = true
 languagecode = "en"
-theme = "black-and-light"
+theme = "hugo-black-and-light-theme"
 
 pygmentsstyle = "bw"
 pygmentscodefences = true
