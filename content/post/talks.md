@@ -5,7 +5,7 @@ date: 2021-02-23T13:11:43-07:00
 draft: false
 ---
 
-My small (but growing) list of talks I have given ordering from newest to oldest.
+A growing list of talks I have given from newest to oldest.
 
 1. [Visualizing the Vaccine with Pandas and Prophet](http://bit.ly/vizvaxvid)
 2. [Exploring 250+ Python Applications (Awesomely)](http://bit.ly/apa-pyninsula)
