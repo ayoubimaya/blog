@@ -19,6 +19,9 @@ pygmentscodefences = true
     name = "Projects"
     url  = "https://github.com/ayoubimaya"
 [[menu.main]]
+    name = "Talks"
+    url = "https://ayoubimaya.github.io/post/talks/"
+[[menu.main]]
     name = "LinkedIn"
     url  = "https://www.linkedin.com/in/mayaayoubi/"
 

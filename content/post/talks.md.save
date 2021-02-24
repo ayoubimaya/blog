@@ -1,0 +1,17 @@
+---
+title: "Talks"
+tags: ["talks"]
+date: 2021-02-23
+draft: false
+---
+
+## Content
+1. [Exploring 250+ Python Applications (Awesomely)](https://youtu.be/f7UN8w49-XA)
+2. [Visualizing the Vaccine with Pandas and Prophet]()
+
+## Exploring 250+ Python Applications (Awesomely)
+- Date: September 29, 2019
+- Duration: 11 minutes
+- Venue: Pyninsula, Mountain View, California
+- [Notebook](https://github.com/mahmoud/awesome-python-applications/blob/master/notebooks/apa_basic_breakdowns.ipynb)
+- [Video](https://youtu.be/f7UN8w49-XA)
