@@ -7,7 +7,7 @@ draft: false
 
 As I am writing this, it’s been a few months since the initial vaccinations have taken place and I find myself Googling COVID-19 related news more than ever. Some of my questions have been:
 
-<center> "What types of vaccines are used?"
+<center> https://github.com/ayoubimaya/COVID19-Vaccination-Progress/blob/main/datasets/State_Postal_Codes.csv
 
 "What country is vaccinating the most?" 
 
@@ -18,7 +18,7 @@ As I am writing this, it’s been a few months since the initial vaccinations ha
 "When will I be eligible for a vaccine?" </center>
 
 
-Needless to say, I wanted all the information I could get my hands on. Fortunately, there are datasets that can answer my questions. The data used comes from Our World in Data’s [GitHub repository](https://github.com/owid/covid-19-data), [Kaggle](https://www.kaggle.com/gpreda/covid-world-vaccination-progress/), and a dataset that can be found on my [Visualizing the Vaccine repository](https://github.com/ayoubimaya/COVID19-Vaccination-Progress/blob/main/datasets/State_Postal_Codes.csv). Let’s get started!
+Needless to say, I wanted all the information I could get my hands on. Fortunately, there are datasets that can answer my questions. The data was used comes from Our World in Data’s [GitHub repository](https://github.com/owid/covid-19-data), [Kaggle](https://www.kaggle.com/gpreda/covid-world-vaccination-progress/), and a dataset that can be found on my [Visualizing the Vaccine repository](https://github.com/ayoubimaya/COVID19-Vaccination-Progress/blob/main/datasets/State_Postal_Codes.csv).Let’s get started!
 
 ## <center>What countries are using mRNA, non-mRNA, or both?</center>
 
@@ -46,26 +46,24 @@ Looking at countries like Great Britain and Chile, we see they started off with 
 
 As far as total vaccinations per hundred is concerned, states like Alaska, New Mexico, North Dakota, and South Dakota are the leaders. My initial hypothesis that states with higher density of people vaccinate more proved to be false. Apparently, states with spread out, smaller populations perform better.
 
-## <center>What are the United States total vaccinationss over time?</center>
+## <center>What are the United States total vaccinations numbers over time?</center>
 
 <iframe width="900" height="600" frameborder="0" scrolling="no" src="//plotly.com/~mayoubi/10.embed"></iframe>
 
-Looks like we have some great news! Overall, the United States total vaccinations has increased exponentially.
+Overall, the United States total vaccinations has increased exponentially, which is great news for us!
 
 ## <center>Will we reach 150 million vaccinations in 100 days?</center>
 
 On January 25, 2021, President Joe Biden pledged 150 million vaccinations in 100 days. Let's see what the data can tell us!
 
-For this prediction, I used an open source software, called [Prophet](https://facebook.github.io/prophet/). According to Prophet's docs, this forecasting prodecure handles seasonality and outlier really well without the hassle of too much tuning. Another reason to use Prophet is because it allows you to make forecasts using a logistic growth trend model with a specified carrying capacity. For our case, our carrying capacity is the population of the United States. 
+For this prediction, I used Prophet from FBProphet since the docs say it handles seasonality and missing data really well. Another reason I used Prophet is because it allows you to choose between two modes of predictions; linear and logistic. Logistic is used when you have a known cap for your prediction and in our case, we know that the number of vaccinations cannot exceed the population of the United States. 
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mayoubi/12.embed"></iframe>
 
-According to Prophet, by April 30, we expect around 220 million vaccinations, meaning shots in arms. It looks like President Joe Biden’s prediction may be a little conservative! 
+According to Prophet, by April 30, we expect around 220 million vaccinations, meaning shots in arms. It looks like Joe Biden’s prediction may be a little conservative! 
 
 Although time may seem to be moving slow, we are well on our way to vaccinating the population. If you’ve made it this far in this blog post, I hope you are able to walk away with a much more positive outlook on what the future has in store!
 
 
 
 My Jupyter Notebook with these plots can be found [here](https://bit.ly/vizvax2021).
-
-My talk on Visualizing the Vaccine can be found [here](https://bit.ly/vizvaxvid).
