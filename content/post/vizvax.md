@@ -73,9 +73,6 @@ For predicting future vaccination numbers, I used open source software, called [
 
 Prophet’s model says by April 30, 2021 around 220 million vaccinations will have happened. It looks like President Joe Biden’s prediction is a little conservative!
 
-I know that it feels like a lifetime, but we are our way to getting those shots out there. I hope you are able to walk away with a much more positive outlook on what the future has in store!
-
-
-If you like what you've read, be sure to check out my talk on [“Visualizing the Vaccine”](https://bit.ly/vizvaxvid) and its corresponding [Jupyter Notebook](https://bit.ly/vizvax2021).
+I know that it feels like a lifetime, but we are on our way to getting those shots to folks. I hope you will have a more positive outlook on what the future has in store! If you like what you've read, be sure to check out my talk on [“Visualizing the Vaccine”](https://bit.ly/vizvaxvid) and its corresponding [Jupyter Notebook](https://bit.ly/vizvax2021).
 
 
