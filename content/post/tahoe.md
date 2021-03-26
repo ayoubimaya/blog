@@ -5,8 +5,6 @@ date: 2020-12-08
 draft: false
 ---
 
-## A single bench in the snow covered woods. Cool waterfalls snaking down smooth rocks. A perfect blue lake that could fool anyone to jump in even on a winter day. This is Tahoe. 
-
 <center><a href="https://i.ibb.co/jfyTC2F/IMG-7373.jpg"><img src="https://i.ibb.co/jfyTC2F/IMG-7373.jpg"></a></center>
 <center><a href="https://i.ibb.co/QjJpCdJ/IMG-7376.jpg"><img src="https://i.ibb.co/QjJpCdJ/IMG-7376.jpg"></a></center>
 <center><a href="https://i.ibb.co/5c6c0wN/IMG-7575.jpg"><img src="https://i.ibb.co/5c6c0wN/IMG-7575.jpg"></a></center>
